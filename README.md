@@ -2,7 +2,7 @@
 An attempt at recreating the mechanics and level 1-1 of Super Mario Bros.(SNES) at the basic level.
 
 ## Project Description(Detailed)
-  This Project was made as a three man group with Aristotle Ducay as the lead for the group and gameplay engineering. The goal of the project aims to recreate world 1-1 of Super Mario Bros to gain fundametal knowledge of pipeline workflow, level design, software development and Asset manipulation from within the Unity Engine.   
+  This Project was made as a three man group with Aristotle Ducay as the lead for the group and gameplay engineering. The goal of the project aims to recreate world 1-1 of Super Mario Bros to gain fundametal knowledge of pipeline workflow, level design, software development and Asset manipulation from within the Unity Engine. The deadline for the project was 3-6 weeks starting from the day we get the project.   
 	
 ## Skills aquired/learned
 - Proper usage of Private and Public variables,
@@ -14,7 +14,7 @@ An attempt at recreating the mechanics and level 1-1 of Super Mario Bros.(SNES) 
 - Using Unity's 2D sprite editor and tielmaps to construct world 1-1
 - Constructing events such as level finish, player death, player respawn etc...
 - Creating functions to use in combination with one another.
-	
+- Pipeline workflow
 ## Code Snippets	
 Source code for player movement in C#:
 
