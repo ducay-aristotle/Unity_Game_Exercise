@@ -16,7 +16,7 @@ An attempt at recreating the mechanics and level 1-1 of Super Mario Bros.(SNES) 
 - Creating functions to use in combination with one another.
 - Pipeline workflow
 ## Code Snippets	
-Source code for player movement in C#:
+Psudo code for player movement in C#:
 
 	using System.Collections;
 	using System.Collections.Generic;
@@ -80,7 +80,7 @@ Source code for player movement in C#:
         var poseR = velocity.x;
         var poseL = velocity.x;
 	}
-Source Code for player jump in C#:
+Psudo Code for player jump in C#:
 
     void Start()
     {
